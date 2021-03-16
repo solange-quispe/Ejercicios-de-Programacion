@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+/*IMPORTAR me sirve para cuando necesite modificar la fuente en 100 o mas parrafos por ejemplo*/
+body {
+
+	<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">/ * Enlace permanente: se usa para editar y compartir este gradiente: https://colorzilla.com/gradient-editor/#e570e7+0,c85ec7+47,a849a3+100;Pink+3D+%233 * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: # e570e7; </font><font style="vertical-align: inherit;">/ * Navegadores antiguos * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: -moz-linear-gradient (arriba, # e570e7 0%, # c85ec7 47%, # a849a3 100%); </font><font style="vertical-align: inherit;">/ * FF3.6-15 * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: -webkit-linear-gradient (arriba, # e570e7 0%, # c85ec7 47%, # a849a3 100%); </font><font style="vertical-align: inherit;">/ * Chrome10-25, Safari5.1-6 * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: gradiente lineal (hacia abajo, # e570e7 0%, # c85ec7 47%, # a849a3 100%); </font><font style="vertical-align: inherit;">/ * W3C, IE10 +, FF16 +, Chrome26 +, Opera12 +, Safari7 + * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">filtro: progid: DXImageTransform.Microsoft.gradient (startColorstr = '# e570e7', endColorstr = '# a849a3', GradientType = 0); </font><font style="vertical-align: inherit;">/ * IE6-9 * /</font></font>
+
+}	color: orange;
+	font-weight:100;
+	font-family: "Piedra", cursive;
+}
+p {
+	color: blue;
+}
+#rebelde{
+	color: green;
+	/*font-style: italic; (estilo de fuente)
+	font-weight:bold; (peso de la fuente:negrita)
+	font-size:22px; (tamaño de la fuente) *//*es para cambiar el tamaño de la letra*/
+	/*line-height:1.2; (altura de la fuente) es para cambiar el espacio entre letras*/
+	/*letter-spacing: (espaciado de letras) 25px;*/
+	/*font-family: (familia tipografica) (familia tipografica) Arial;*/
+	font: italic bold 22px/1.2 Arial; /*(fuente: cursiva negrita)*//*esto seria shorthand en unasolo linea poner todo lo de arriba*/
+	/*el tramaño y tipo de fuente (obligatorio)*/
+	/*o tamaño, interlineado y tip de fuente(opcional)*/
+}
+.tercero{
+	background-color: lightpink;
+	background: blue url(imagen.jpg) no-repeat left top;
+	/*padding: (relleno)*/
+	/*padding-top: (acolchado superior)
+    padding-left: (relleno a la izquierda)
+    padding-right: (relleno derecho)
+    padding-bottom: (fondo acolchado)*/
+}
+h1, #rebelde,.tercero{
+	font-size: 2em; /*(tamaño de la fuente)*/
+} /*shorthand, es como para recortar cosas, simplificar*/
+
